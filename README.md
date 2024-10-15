@@ -8,12 +8,6 @@ Please refer to https://ctl.omnistrate.cloud/integrating/ on how to automate you
 
 # Setup Omnistrate CTL
 
-[![GitHub Super-Linter](https://github.com/omnistrate/setup-omnistrate-ctl/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
-![CI](https://github.com/omnistrate/setup-omnistrate-ctl/actions/workflows/ci.yml/badge.svg)
-[![Check dist/](https://github.com/omnistrate/setup-omnistrate-ctl/actions/workflows/check-dist.yml/badge.svg)](https://github.com/actions/setup-omnistrate-ctl/actions/workflows/check-dist.yml)
-[![CodeQL](https://github.com/omnistrate/setup-omnistrate-ctl/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/actions/setup-omnistrate-ctl/actions/workflows/codeql-analysis.yml)
-[![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
-
 ## About
 
 This action allows you to easily setup Omnistrate CTL command like to be able to
