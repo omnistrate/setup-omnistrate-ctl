@@ -1,9 +1,10 @@
-# Deprecated
+# Main repository for this action has moved
 
-This repository is deprecated and will not be maintained
-Active development is now on : https://github.com/omnistrate-oss/setup-omnistrate-ctl
+This repository is currently deprecated and will no longer be be maintained
 
-Please refer to https://ctl.omnistrate.cloud/integrating/ on how to automate your CI/CD process on Omnistrate
+Active development is now on: https://github.com/omnistrate-oss/setup-omnistrate-ctl
+
+Please refer to https://ctl.omnistrate.cloud/integrating/ on how to automate your CI/CD process with Omnistrate
 
 # Setup Omnistrate CTL
 
