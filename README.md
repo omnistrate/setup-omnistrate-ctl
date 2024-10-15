@@ -1,3 +1,10 @@
+# Deprecated
+
+This repository is deprecate and will not be maintained
+Active development is now on : https://github.com/omnistrate-oss/setup-omnistrate-ctl
+
+Please refer to https://ctl.omnistrate.cloud/integrating/ on how to automate your CI/CD process on Omnistrate
+
 # Setup Omnistrate CTL
 
 [![GitHub Super-Linter](https://github.com/omnistrate/setup-omnistrate-ctl/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
