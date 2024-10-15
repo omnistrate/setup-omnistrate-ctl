@@ -1,6 +1,6 @@
 # Main repository for this action has moved
 
-This repository is currently deprecated and will no longer be be maintained
+*** This repository is currently deprecated and will no longer be be maintained ***
 
 Active development is now on: https://github.com/omnistrate-oss/setup-omnistrate-ctl
 
